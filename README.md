@@ -21,3 +21,7 @@ The Skill directs the agent to read public resources at https://pmnote.ai and li
 ## Cursor
 
 Install from the Cursor Marketplace once approved, or add this repository as a plugin source. Ask the agent a question about game project management and it can use the bundled `pmnote` skill.
+
+## Privacy and support
+
+[PMNote privacy policy](https://pmnote.ai/privacy/) · [Support and contact](https://pmnote.ai/support/)
