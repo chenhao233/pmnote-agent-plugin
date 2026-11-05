@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "pmnote",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "Find PMNote's public resources to help with game project management, career development, and AI tools.",
   "author": {
     "name": "Hao",
