@@ -1,0 +1,11 @@
+{
+  "name": "pmnote",
+  "version": "1.5.5",
+  "description": "查阅 PMNote 游戏项目管理、职业发展和 AI 工具的公开资料。",
+  "author": {
+    "name": "Hao"
+  },
+  "homepage": "https://pmnote.ai",
+  "repository": "https://github.com/chenhao233/pmnote-agent-plugin",
+  "license": "MIT"
+}
