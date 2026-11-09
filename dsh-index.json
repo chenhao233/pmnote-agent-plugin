@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "title": {"en": "PMNote plugins", "zh": "PMNote 插件"},
+  "plugins": [
+    {
+      "name": "dsh-pmnote",
+      "title": "PMNote",
+      "description": {"en": "Find public PMNote resources on game project management, careers and AI tools.", "zh": "查阅游戏项目管理、职业发展与 AI 工具的 PMNote 公开资料。"},
+      "author": "Hao",
+      "homepage": "https://pmnote.ai/",
+      "repository": {"url": "https://github.com/chenhao233/pmnote-agent-plugin"},
+      "versions": [{
+        "version": "1.5.5",
+        "publishTimestamp": 1794211610,
+        "source": {"type": "git", "url": "https://github.com/chenhao233/pmnote-agent-plugin", "commit": "5684f27e8db019c344a55df6911aeeb3181b81bc"},
+        "engines": {"dsh": ">=0.2.2-rc.1 <0.3.0"}
+      }]
+    }
+  ]
+}
