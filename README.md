@@ -22,6 +22,10 @@ The Skill directs the agent to read public resources at https://pmnote.ai and li
 
 Install from the Cursor Marketplace once approved, or add this repository as a plugin source. Ask the agent a question about game project management and it can use the bundled `pmnote` skill.
 
+## Kimi Code
+
+The repository includes a native Kimi plugin manifest. Install it from a Kimi Code session with `/plugins install https://github.com/chenhao233/pmnote-agent-plugin`, then start a new session or run `/reload`. You can invoke the skill as `/skill:pmnote:pmnote`. This direct installation does not mean the plugin is listed in Kimi's official marketplace.
+
 ## Privacy and support
 
 [PMNote privacy policy](https://pmnote.ai/privacy/) · [Support and contact](https://pmnote.ai/support/)

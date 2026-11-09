@@ -1,0 +1,15 @@
+{
+  "name": "pmnote",
+  "version": "1.5.5",
+  "description": "查阅 PMNote 游戏项目管理、职业发展和 AI 工具的公开资料。",
+  "skills": "./skills/",
+  "author": "Hao",
+  "homepage": "https://pmnote.ai",
+  "license": "MIT",
+  "interface": {
+    "displayName": "PMNote 游戏项目管理",
+    "shortDescription": "检索游戏项目管理、职业发展与 AI 提效的公开资料",
+    "developerName": "Hao / PMNote",
+    "websiteURL": "https://pmnote.ai"
+  }
+}
