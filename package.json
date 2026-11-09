@@ -1,0 +1,35 @@
+{
+  "name": "dsh-pmnote",
+  "version": "1.5.5",
+  "description": "PMNote public resources for game project management, career development, and AI tools.",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills/pmnote",
+    "LICENSE",
+    "README.md"
+  ],
+  "license": "MIT",
+  "author": "Hao",
+  "homepage": "https://pmnote.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenhao233/pmnote-agent-plugin.git"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "skills",
+    "project-management"
+  ],
+  "engines": {
+    "node": ">=24.9.0",
+    "dsh": ">=0.2.2-rc.1 <0.3.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

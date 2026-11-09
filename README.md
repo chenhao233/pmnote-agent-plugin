@@ -25,3 +25,13 @@ Install from the Cursor Marketplace once approved, or add this repository as a p
 ## Privacy and support
 
 [PMNote privacy policy](https://pmnote.ai/privacy/) · [Support and contact](https://pmnote.ai/support/)
+
+## DeepSeek Harness
+
+Install the DSH bundle from GitHub into a profile (DSH 0.2.2-rc.1 or compatible 0.2.x):
+
+```sh
+dsh plugin --profile default add github:chenhao233/pmnote-agent-plugin
+```
+
+The bundle registers the `pmnote` skill and includes its references and optional reader. It needs no install-time build. To browse a plugin index in DSH, enable its experimental Custom plugin indexes bundle and add an index source; DSH does not ship one by default.
