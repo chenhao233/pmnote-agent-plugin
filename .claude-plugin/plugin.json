@@ -1,0 +1,10 @@
+{
+  "name": "pmnote",
+  "version": "1.5.5",
+  "description": "Find and use public PMNote resources on game project management, careers, and AI tools.",
+  "author": {"name": "Hao", "url": "https://github.com/chenhao233"},
+  "homepage": "https://pmnote.ai",
+  "repository": "https://github.com/chenhao233/pmnote-agent-plugin",
+  "license": "MIT",
+  "keywords": ["game-project-management", "career", "ai-tools"]
+}
