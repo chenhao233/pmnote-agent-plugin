@@ -2,6 +2,16 @@
   "name": "pmnote",
   "version": "1.5.5",
   "description": "查阅 PMNote 游戏项目管理、职业发展和 AI 工具的公开资料。",
+  "keywords": [
+    "game-project-management",
+    "game-pm",
+    "游戏项目管理",
+    "游戏PM",
+    "interview",
+    "面试",
+    "career",
+    "ai-tools"
+  ],
   "skills": "./skills/",
   "author": "Hao",
   "homepage": "https://pmnote.ai",
